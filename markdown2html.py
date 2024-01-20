@@ -199,4 +199,4 @@ if __name__ == "__main__":
         exit(1)
 
     mark2html(*argv)
-    
+    exit(0)
